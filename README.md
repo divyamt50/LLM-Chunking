@@ -1,3 +1,14 @@
+---
+title: Chunk Doctor
+emoji: 🩺
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+app_file: app.py
+pinned: false
+---
+
+
 # 🩺 Chunk Doctor
 
 > An interactive toolkit for understanding LLM tokenization and experimenting with token-based text chunking for RAG pipelines.
