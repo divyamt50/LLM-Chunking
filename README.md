@@ -13,6 +13,11 @@ pinned: false
 
 > An interactive toolkit for understanding LLM tokenization and experimenting with token-based text chunking for RAG pipelines.
 
+## 🚀 Live Demo
+
+**[Try Chunk Doctor →]https://huggingface.co/spaces/divyamt/Chunk-Doctorr)**
+.
+
 Chunk Doctor helps visualize what actually happens to text before it reaches an LLM.
 
 Instead of treating text as simple words or characters, it lets you inspect the **tokens, token IDs, token counts, and token-based chunks** produced by a real LLM tokenizer.
