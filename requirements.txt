@@ -2,3 +2,4 @@ gradio
 transformers
 python-dotenv
 torch
+spaces

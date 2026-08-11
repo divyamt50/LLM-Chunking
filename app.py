@@ -1,7 +1,12 @@
 import gradio as gr
+import spaces
 
 from chunking import chunk_text
 from tokenizers_utils import encoder, decoder, encode_string
+
+@spaces.GPU
+def zero_gpu_check():
+    return "Chunk Doctor is running on ZeroGPU."
 
 
 def analyze(text):
