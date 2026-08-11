@@ -148,4 +148,4 @@ with gr.Blocks(title="Chunk Doctor") as demo:
     )
 
 
-demo.launch(inbrowser=True)
+demo.launch(inbrowser=True, share=True)
