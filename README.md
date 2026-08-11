@@ -15,7 +15,7 @@ pinned: false
 
 ## 🚀 Live Demo
 
-**[Try Chunk Doctor →]https://huggingface.co/spaces/divyamt/Chunk-Doctorr)**
+**[Try Chunk Doctor →]https://huggingface.co/spaces/divyamt/Chunk-Doctor)**
 .
 
 Chunk Doctor helps visualize what actually happens to text before it reaches an LLM.
